@@ -1,0 +1,247 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-build/src/glfw_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src",
+	"CMAKE_EXECUTABLE" : "C:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/CMakeLists.txt",
+		"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/CMake/glfw3.pc.in"
+	],
+	"CMAKE_SOURCE_DIR" : "C:/Users/ljuek/Code/TestWindowing",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-build/src/glfw_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "glfw_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/include/GLFW/glfw3.h",
+			"MU",
+			"ETDTGYGHKQ/moc_glfw3.cpp",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/include/GLFW/glfw3native.h",
+			"MU",
+			"ETDTGYGHKQ/moc_glfw3native.cpp",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/internal.h",
+			"MU",
+			"EWIEGA46WW/moc_internal.cpp",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/mappings.h",
+			"MU",
+			"EWIEGA46WW/moc_mappings.cpp",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/null_joystick.h",
+			"MU",
+			"EWIEGA46WW/moc_null_joystick.cpp",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/null_platform.h",
+			"MU",
+			"EWIEGA46WW/moc_null_platform.cpp",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/platform.h",
+			"MU",
+			"EWIEGA46WW/moc_platform.cpp",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/win32_joystick.h",
+			"MU",
+			"EWIEGA46WW/moc_win32_joystick.cpp",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/win32_platform.h",
+			"MU",
+			"EWIEGA46WW/moc_win32_platform.cpp",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/win32_thread.h",
+			"MU",
+			"EWIEGA46WW/moc_win32_thread.cpp",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/win32_time.h",
+			"MU",
+			"EWIEGA46WW/moc_win32_time.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-build/src/glfw_autogen/include",
+	"MOC_COMPILATION_FILE" : "C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-build/src/glfw_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"UNICODE",
+		"WIN32",
+		"_CRT_SECURE_NO_WARNINGS",
+		"_GLFW_WIN32",
+		"_UNICODE"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/include",
+		"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src",
+		"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-build/src"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : [],
+	"MOC_PREDEFS_FILE" : "",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 16,
+	"PARSE_CACHE_FILE" : "C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-build/src/CMakeFiles/glfw_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/6.8.0/msvc2022_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-build/src/CMakeFiles/glfw_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/context.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/egl_context.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/init.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/input.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/monitor.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/null_init.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/null_joystick.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/null_monitor.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/null_window.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/osmesa_context.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/platform.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/vulkan.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/wgl_context.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/win32_init.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/win32_joystick.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/win32_module.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/win32_monitor.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/win32_thread.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/win32_time.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/win32_window.c",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-src/src/window.c",
+			"MU",
+			null
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
