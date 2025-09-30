@@ -1,5 +1,0 @@
-module TestWindowing
-typeinfo appTestWindowing.qmltypes
-prefer :/qt/qml/TestWindowing/
-Main 1.0 Main.qml
-

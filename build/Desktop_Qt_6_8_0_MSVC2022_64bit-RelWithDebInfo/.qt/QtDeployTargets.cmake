@@ -1,5 +1,0 @@
-set(__QT_DEPLOY_TARGET_glfw_FILE C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/_deps/glfw-build/src/glfw3.lib)
-set(__QT_DEPLOY_TARGET_glfw_TYPE STATIC_LIBRARY)
-set(__QT_DEPLOY_TARGET_appTestWindowing_FILE C:/Users/ljuek/Code/TestWindowing/build/Desktop_Qt_6_8_0_MSVC2022_64bit-RelWithDebInfo/appTestWindowing.exe)
-set(__QT_DEPLOY_TARGET_appTestWindowing_TYPE EXECUTABLE)
-set(__QT_DEPLOY_TARGET_appTestWindowing_RUNTIME_DLLS C:/Qt/6.8.0/msvc2022_64/bin/Qt6Quick.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6QmlMeta.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6QmlWorkerScript.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6QmlModels.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6Qml.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6Network.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6OpenGL.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6Gui.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6Core.dll)
